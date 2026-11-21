@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "D110",
+			"path": "../D110"
+		}
+	],
+	"settings": {
+		"mplab.clangd.arguments": [
+			"--header-insertion=never"
+		],
+		"mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/D110/default",
+		"mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-clangd.exe"
+	}
+}
